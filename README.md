@@ -46,5 +46,5 @@ Al hacer cambios, sube el archivo nuevo y, si no ves el cambio, sube `index.html
 con un número distinto en `?v=` (ej. `styles.css?v=20260801`).
 
 ## Nombre de marca
-El sitio usa **BrosBoa Company**. El apellido *Balboa* aparece solo en la sección
-"Nosotros", porque es el apellido real de Benjamín y Mathías.
+El sitio usa **BrosBoa Company**. En la sección "Nosotros" los fundadores
+aparecen como Benjamín y Mathías García.
